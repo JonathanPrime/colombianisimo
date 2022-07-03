@@ -54,21 +54,26 @@ section {
 .heading {
   text-align: center;
   margin-bottom: 3rem;
+  padding-top:2rem;
 }
 
 .heading .title-menu {
   text-align: center;
   font-family: 'SugarPie';
-  font-size: 9rem;
-  color:  var(--);
+  font-size: 7rem;
+  color:  var(--white);
 }
 
 .heading .sub-menu {
-  text-align: center;
-  font-family: 'BebasNeuePro';
-  font-size: 8rem;
-  margin-top: -4rem;
-  color:  var(--white);
+  font-family: 'BebasNeueProBoldItalic';
+  font-size: 4rem;
+  color: var(--white);
+  display: inline-block;
+  padding-right: 3rem;
+  padding-left: 3rem;
+  margin-top: 4rem;
+  border-radius: 50px;
+  background: var(--palet-1);
 }
 
 p {
@@ -131,7 +136,7 @@ p {
 }
 
 .header.active #menu-btn {
-  color: var(--palet-2);
+  color: var(--palet-1);
 }
 
 .header .logo {
@@ -263,7 +268,7 @@ p {
 /*========== MENU ==========*/
 
 .menu {
-  background: url(../images/background-menu.svg) no-repeat;
+  background: url(../images/background-menu-01.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   padding: 2rem 9% !important;
@@ -613,7 +618,7 @@ p {
   width: 6rem;
   line-height: 6rem;
   border-radius: 50%;
-  background:  var(--palet-2);
+  background:  var(--palet-3);
   color: var(--black);
   font-size: 2rem;
   margin-bottom: 1rem;
@@ -1258,7 +1263,7 @@ input.whats-input[type=text]:focus {
     font-size: 4rem;
   }
   .service-box .box .sub-services {
-    font-size: 4.5rem;
+    font-size: 4.2rem;
   }
   .heading .blog-title {
     font-size: 5rem;
