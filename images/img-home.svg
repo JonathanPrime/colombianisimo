@@ -5,8 +5,6 @@
 <style type="text/css">
 	.st0{fill:#003893;}
 	.st1{fill:#FFFFFF;}
-	.st2{fill:#FCD116;}
-	.st3{fill:#CE1126;}
 </style>
 <path class="st0" d="M257.5,52.4H9.5c-5.2,0-9.4-4.2-9.4-9.4V13.4C0.1,8.2,4.3,4,9.5,4h248c5.2,0,9.4,4.2,9.4,9.4V43
 	C267,48.2,262.7,52.4,257.5,52.4z"/>
@@ -169,17 +167,5 @@
 		c0.6,0.4,1.1,0.8,1.5,1.4c0.4,0.6,0.6,1.3,0.6,2.3c0,1.3-0.4,2.4-1.1,3.4c-0.7,1-1.6,1.8-2.8,2.5c-1.1,0.7-2.4,1.2-3.8,1.6
 		c-1.4,0.4-2.8,0.6-4.2,0.6c-1.1,0-2.1-0.1-3-0.3c-1-0.2-1.8-0.6-2.6-1c-0.7-0.5-1.3-1.1-1.8-1.8C229.8,96.7,229.6,95.8,229.6,94.8z
 		"/>
-</g>
-<circle class="st2" cx="-27.7" cy="-401.8" r="102"/>
-<circle class="st0" cx="212.4" cy="-401.8" r="102"/>
-<circle class="st3" cx="452.5" cy="-401.8" r="102"/>
-<g>
-	<text transform="matrix(1 0 0 1 -95.2439 -222.9508)" class="st1" style="font-family:'Poppins-Bold'; font-size:39.4448px;">FCD116</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 144.7796 -222.9352)" class="st1" style="font-family:'Poppins-Bold'; font-size:39.4448px;">003893</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 392.842 -222.6227)" class="st1" style="font-family:'Poppins-Bold'; font-size:39.4448px;">CE1126</text>
 </g>
 </svg>
