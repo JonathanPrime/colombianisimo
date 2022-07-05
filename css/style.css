@@ -268,7 +268,7 @@ p {
 /*========== MENU ==========*/
 
 .menu {
-  background: url(../images/background-menu-01.jpg) no-repeat;
+  background: url(../images/background-menu.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   padding: 2rem 9% !important;
@@ -379,6 +379,7 @@ p {
 }
 
 #customers-testimonials .item, 
+#customers-testimonials-alm .item, 
 #customers-testimonials-mini .item, 
 #customers-testimonials-acom .item, 
 #customers-testimonials-fast .item, 
@@ -399,6 +400,7 @@ p {
   transition: all 0.3s ease-in-out;
 }
 #customers-testimonials .owl-item.active.center .item,
+#customers-testimonials-alm .owl-item.active.center .item,
 #customers-testimonials-mini .owl-item.active.center .item,
 #customers-testimonials-acom .owl-item.active.center .item,
 #customers-testimonials-fast .owl-item.active.center .item,

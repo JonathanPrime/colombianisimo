@@ -279,6 +279,30 @@ $('#customers-testimonials-chi').owlCarousel({
   }
 });
 
+$('#customers-testimonials-alm').owlCarousel({
+  interval: false,
+  nav: true,
+  navText: ["<div class='nav-button owl-prev'>‹</div>", "<div class='nav-button owl-next'>›</div>"],
+  items: 3,
+  margin: 0,
+  autoplay: false,
+  dots: false,
+  responsive: {
+    0: {
+      items: 1
+    },
+    768: {
+      items: 2
+    },
+    1170: {
+      items: 3
+    },
+    3840: {
+      items: 3
+    }
+  }
+});
+
 $('#customers-testimonials-pll').owlCarousel({
   nav: true,
   navText: ["<div class='nav-button owl-prev'>‹</div>", "<div class='nav-button owl-next'>›</div>"],
